@@ -34,7 +34,7 @@ This platform bridges the gap between vehicle owners and renters, providing a se
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/unnikrishnan-sics/Intelligent-Vehicle-Rental-Platform.git
+git clone https://github.com/fathimamuneera911-source/Intelligent-Vehicle-Rental-Platform.git
 cd Intelligent-Vehicle-Rental-Platform
 ```
 
